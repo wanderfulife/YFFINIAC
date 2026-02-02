@@ -25,7 +25,7 @@ const props = defineProps({
 });
 
 // 🎯 STEP 2: Customize your survey configuration
-const pageTitle = ref('YSSINIAC'); // Browser tab title
+const pageTitle = ref('YFFINIAC'); // Browser tab title
 // Ensure posteTravailQuestionId is defined for the template
 const posteTravailQuestionId = 'POSTE'; // 🎯 Change this if your work station question has a different ID
 const customWelcomeMessage = ref(`Bonjour, Nous réalisons une courte enquête`); // HTML welcome message
